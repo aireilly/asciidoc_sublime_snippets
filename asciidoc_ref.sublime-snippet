@@ -1,0 +1,29 @@
+<snippet>
+    <content>[id="REPLACE_ME_WITH_ID_{context}"]
+= REPLACE_ME_WITH_TITLE
+
+[role="_abstract"]
+//Short introductory paragraph that provides an overview of the module. The text that immediately follows the abstract tag is used for search metadata.
+
+.Labeled list
+Term 1:: Definition
+Term 2:: Definition
+
+.Table
+[options="header"]
+|====
+|Column 1|Column 2|Column 3
+|Row 1, column 1|Row 1, column 2|Row 1, column 3
+|Row 2, column 1|Row 2, column 2|Row 2, column 3
+|====
+
+[role="_additional-resources"]
+.Additional resources
+//Optional. Delete if not used.
+
+</content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ref</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text</scope>
+</snippet>

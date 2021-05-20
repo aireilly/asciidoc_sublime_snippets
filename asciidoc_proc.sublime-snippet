@@ -1,0 +1,21 @@
+<snippet>
+	<content>[id="REPLACE_ME_WITH_ID_{context}"]
+= REPLACE_ME_WITH_TITLE
+
+[role="_abstract"]
+//Short introductory paragraph that provides an overview of the module. The text that immediately follows the abstract tag is used for search metadata.
+
+.Prerequisites
+
+.Procedure
+
+.Verification
+
+[role="_additional-resources"]
+.Additional resources
+</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>proc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text</scope>
+</snippet>
