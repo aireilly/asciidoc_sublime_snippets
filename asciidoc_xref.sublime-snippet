@@ -1,0 +1,8 @@
+<snippet>
+	<content>xref:PATH_TO_FILE.adoc#SECTION_ID[LINK_TEXT]
+</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>xref</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.asciidoc</scope>
+</snippet>
