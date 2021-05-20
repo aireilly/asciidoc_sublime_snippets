@@ -15,5 +15,6 @@ To install, download and copy these files to `~/.config/sublime-text-3/Packages/
 * xref
 * link
 * yaml
+* tech-preview
 * note
 * prereqs 
