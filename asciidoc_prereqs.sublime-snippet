@@ -1,0 +1,11 @@
+<snippet>
+	<content>.Prerequisites
+
+* Install the {product-title} CLI `oc`.
+* Log in as a user with `cluster-admin` privileges.
+</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>prereqs</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.asciidoc</scope>
+</snippet>
