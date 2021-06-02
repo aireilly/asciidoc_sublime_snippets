@@ -1,6 +1,9 @@
 <snippet>
-    <content>[id="REPLACE_ME_WITH_ID_{context}"]
+    <content>:_module-type: REFERENCE
+
+[id="REPLACE_ME_WITH_ID_{context}"]
 = REPLACE_ME_WITH_TITLE
+//In the title of a reference module, include nouns that are used in the body text. For example, "Keyboard shortcuts for ___" or "Command options for ___." This helps readers and search engines find the information quickly.
 
 [role="_abstract"]
 //Short introductory paragraph that provides an overview of the module. The text that immediately follows the abstract tag is used for search metadata.
@@ -19,7 +22,7 @@ Term 2:: Definition
 
 [role="_additional-resources"]
 .Additional resources
-//Optional. Delete if not used.
+//Optional. Delete if not used. A bulleted list of links to other closely-related material. These links can include `link:` and `xref:` macros.
 
 </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

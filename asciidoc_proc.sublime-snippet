@@ -1,18 +1,25 @@
 <snippet>
-	<content>[id="REPLACE_ME_WITH_ID_{context}"]
+	<content>:_module-type: PROCEDURE
+
+[id="REPLACE_ME_WITH_ID_{context}"]
 = REPLACE_ME_WITH_TITLE
 
 [role="_abstract"]
 //Short introductory paragraph that provides an overview of the module. The text that immediately follows the abstract tag is used for search metadata.
 
 .Prerequisites
+//A bulleted list of conditions that must be satisfied before the user starts following this module.
 
 .Procedure
+//Start each step with an active verb. Use an unnumbered bullet (*) if the procedure includes only one step.
 
 .Verification
+//.Verification
+//Provide the user with verification methods for the procedure, such as expected output or commands that confirm success or failure.
 
 [role="_additional-resources"]
 .Additional resources
+//Optional. Delete if not used. A bulleted list of links to other closely-related material. These links can include `link:` and `xref:` macros.
 </content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>proc</tabTrigger>

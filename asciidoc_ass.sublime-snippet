@@ -1,5 +1,7 @@
 <snippet>
-    <content>[id="REPLACE_ME_WITH_ID"]
+    <content> ifdef::context[:parent-context: {context}]
+
+[id="REPLACE_ME_WITH_ID"]
 = REPLACE_ME_WITH_TITLE
 
 :context: ASSEMBLY_CONTEXT
@@ -10,19 +12,15 @@
 == Prerequisites
 
 //A bulleted list of conditions that must be satisfied before the user starts following this assembly.
-//include::modules/TEMPLATE_CONCEPT_explaining_a_concept.adoc[leveloffset=+1]
+include::modules/TEMPLATE_CONCEPT_explaining_a_concept.adoc[leveloffset=+1]
 
 [role="_additional-resources"]
 == Additional resources (or Next steps)
-//Optional. Delete if not used.
-
-//A bulleted list of links to other closely-related material. These links can include `link:` and `xref:` macros.
+//Optional. Delete if not used. A bulleted list of links to other closely-related material. These links can include `link:` and `xref:` macros.
 
 //Restore the context to what it was before this assembly.
 //ifdef::parent-context-of-assembly_blah[:context: {parent-context-of-assembly_blah}]
 //ifndef::parent-context-of-assembly_blah[:!context:]
-
-
 </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>ass</tabTrigger>
