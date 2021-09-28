@@ -5,7 +5,7 @@
 +
 [source,yaml]
 ----
-YAML
+
 ----
 .. Create the `CUSTOM_RESOURCE` CR by running the following command:
 +
