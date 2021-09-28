@@ -1,22 +1,21 @@
 <snippet>
-	<content>. Create the THING.
+    <content>. Create the CUSTOM_RESOURCE.
 
-.. Create the following `THING` CR and save the YAML in the `THING.yaml` file:
+.. Create the following `CUSTOM_RESOURCE` CR and save the YAML in the `CUSTOM_RESOURCE.yaml` file:
 +
 [source,yaml]
 ----
-
+YAML
 ----
-
-.. Create the `THING` CR by running the following command:
+.. Create the `CUSTOM_RESOURCE` CR by running the following command:
 +
 [source,terminal]
 ----
-$ oc create -f THING.yaml
+\$ oc create -f CUSTOM_RESOURCE.yaml
 ----
 </content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>cr</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.asciidoc</scope>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>cr</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.asciidoc</scope>
 </snippet>
