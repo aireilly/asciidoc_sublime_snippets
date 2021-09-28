@@ -1,7 +1,7 @@
 <snippet>
 	<content>.Prerequisites
 
-* Install the {product-title} CLI `oc`.
+* Install the OpenShift CLI (`oc`).
 * Log in as a user with `cluster-admin` privileges.
 </content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
