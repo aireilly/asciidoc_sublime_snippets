@@ -1,7 +1,7 @@
 <snippet>
-    <content>. Create the CUSTOM_RESOURCE.
+    <content>. Create the CUSTOM_RESOURCE object that .
 
-.. Create the following `CUSTOM_RESOURCE` CR and save the YAML in the `CUSTOM_RESOURCE.yaml` file:
+.. Save the following YAML in the `CUSTOM_RESOURCE_FILENAME.yaml` file:
 +
 [source,yaml]
 ----
@@ -11,7 +11,7 @@
 +
 [source,terminal]
 ----
-\$ oc create -f CUSTOM_RESOURCE.yaml
+\$ oc create -f CUSTOM_RESOURCE_FILENAME.yaml
 ----
 </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
