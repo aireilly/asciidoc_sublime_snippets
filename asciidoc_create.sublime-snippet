@@ -1,0 +1,22 @@
+<snippet>
+	<content>. Create the THING.
+
+.. Create the following `THING` CR and save the YAML in the `THING.yaml` file:
++
+[source,yaml]
+----
+
+----
+
+.. Create the `THING` CR by running the following command:
++
+[source,terminal]
+----
+$ oc create -f THING.yaml
+----
+</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>create</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.asciidoc</scope>
+</snippet>
