@@ -1,6 +1,8 @@
 <snippet>
-    <content>:_module-type: REFERENCE
-
+    <content>// Module included in the following assemblies:
+//
+// *
+:_module-type: REFERENCE
 [id="REPLACE_ME_WITH_ID_{context}"]
 = REPLACE_ME_WITH_TITLE
 //In the title of a reference module, include nouns that are used in the body text. For example, "Keyboard shortcuts for ___" or "Command options for ___." This helps readers and search engines find the information quickly.

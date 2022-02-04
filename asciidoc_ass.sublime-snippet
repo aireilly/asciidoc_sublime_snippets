@@ -1,6 +1,6 @@
 <snippet>
     <content> ifdef::context[:parent-context: {context}]
-
+:_content-type: ASSEMBLY
 [id="REPLACE_ME_WITH_ID"]
 = REPLACE_ME_WITH_TITLE
 
