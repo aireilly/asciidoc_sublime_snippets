@@ -1,5 +1,8 @@
 <snippet>
-    <content>:_module-type: CONCEPT
+    <content>// Module included in the following assemblies:
+//
+// *
+:_module-type: CONCEPT
 [id="REPLACE_ME_WITH_ID_{context}"]
 = REPLACE_ME_WITH_TITLE
 //In the title of concept modules, include nouns or noun phrases that are used in the body text. This helps readers and search engines find the information quickly. Do not start the title of concept modules with a verb.
