@@ -1,22 +1,22 @@
 <snippet>
-    <content>. Create the CUSTOM_RESOURCE object that .
+	<content>. Create a `CUSTOM_RESOURCE` resource
 
-.. Save the following YAML in the `CUSTOM_RESOURCE_FILENAME.yaml` file:
+.. Save the following YAML in the `FILENAME.yaml` file:
 +
 [source,yaml]
 ----
-
+$0
 ----
 
-.. Create the `CUSTOM_RESOURCE` CR by running the following command:
+.. Create the `CUSTOM_RESOURCE` CR:
 +
-[source,terminal]
+[source,yaml]
 ----
-\$ oc create -f CUSTOM_RESOURCE_FILENAME.yaml
+\$ oc create -f FILENAME.yaml
 ----
 </content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>cr</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>text.asciidoc</scope>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cr</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.asciidoc</scope>
 </snippet>

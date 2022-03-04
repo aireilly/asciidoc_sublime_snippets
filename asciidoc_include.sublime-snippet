@@ -1,5 +1,5 @@
 <snippet>
-    <content>include::$0MODULE_FILENAME[leveloffset=+1]
+    <content>include::modules/$0MODULE_FILENAME.adoc[leveloffset=+1]
 </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>include</tabTrigger>

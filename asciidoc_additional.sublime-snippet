@@ -1,5 +1,6 @@
 <snippet>
-	<content>.Additional resources
+	<content>[role="_additional-resources"]
+.Additional resources
 
 * For more information, see xref:$0PATH_TO_FILE.adoc#SECTION_ID[LINK_TEXT].	
 </content>

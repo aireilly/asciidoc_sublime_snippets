@@ -16,7 +16,6 @@
 //Start each step with an active verb. Use an unnumbered bullet (*) if the procedure includes only one step.
 
 .Verification
-//.Verification
 //Provide the user with verification methods for the procedure, such as expected output or commands that confirm success or failure.
 
 [role="_additional-resources"]
