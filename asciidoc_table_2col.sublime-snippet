@@ -1,5 +1,5 @@
 <snippet>
-	<content>.$0
+	<content>.$0REPLACE_WITH_TABLE_TITLE
 [cols=2*, width="40%", options="header"]
 |====
 |Firefox
