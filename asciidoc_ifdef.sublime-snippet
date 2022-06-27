@@ -1,5 +1,5 @@
 <snippet>
-    <content>ifdef::$0[]
+    <content>ifdef::$0REPLACE_WITH_DEFINITION[]
 REPLACE_WITH_CONDITIONAL_TEXT
 endif::[]
 </content>
