@@ -1,10 +1,9 @@
 <snippet>
-	<content>[IMPORTANT]
-====
-$0
-====</content>
+	<content>.Verification
+
+Check that the REPLACE_ME_WITH_FEATURE is REPLACE_ME_WITH_CORRECT_STATE.</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>important</tabTrigger>
+	<tabTrigger>verif</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.asciidoc</scope>
 </snippet>
