@@ -40,3 +40,8 @@ To install, download and copy these files to `~/.config/sublime-text-3/Packages/
 * xref
 * yaml
 * codeblock-subs
+* trademark
+* ellipsis
+* plus_minus
+* trademark
+* copyright
