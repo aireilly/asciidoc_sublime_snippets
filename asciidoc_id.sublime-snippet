@@ -1,5 +1,5 @@
 <snippet>
-	<content>[id="REPLACE_WITH_ID"]
+	<content>[id="$0REPLACE_WITH_ID_{context}"]
 </content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>id</tabTrigger>

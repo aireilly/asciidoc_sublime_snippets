@@ -3,7 +3,7 @@
 //
 // *
 :_module-type: REFERENCE
-[id="REPLACE_ME_WITH_ID_{context}"]
+[id="$0REPLACE_ME_WITH_ID_{context}"]
 = REPLACE_ME_WITH_TITLE
 //In the title of a reference module, include nouns that are used in the body text. For example, "Keyboard shortcuts for ___" or "Command options for ___." This helps readers and search engines find the information quickly.
 
@@ -21,11 +21,6 @@ Term 2:: Definition
 |Row 1, column 1|Row 1, column 2|Row 1, column 3
 |Row 2, column 1|Row 2, column 2|Row 2, column 3
 |====
-
-[role="_additional-resources"]
-.Additional resources
-//Optional. Delete if not used. A bulleted list of links to other closely-related material. These links can include `link:` and `xref:` macros.
-
 </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>ref</tabTrigger>
