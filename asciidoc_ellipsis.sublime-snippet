@@ -1,5 +1,5 @@
 <snippet>
-    <content>$0&#133;
+    <content>&#133;$0
 </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>ellipsis</tabTrigger>
