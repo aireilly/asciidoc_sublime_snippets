@@ -1,10 +1,10 @@
 <snippet>
-    <content> ifdef::context[:parent-context: {context}]
-:_content-type: ASSEMBLY
+    <content>:_content-type: ASSEMBLY
 [id="$0REPLACE_ME_WITH_ID"]
 = REPLACE_ME_WITH_TITLE
+:context: REPLACE_ME_WITH_CONTEXT
 
-:context: ASSEMBLY_CONTEXT
+toc::[]
 
 [role="_abstract"]
 //This paragraph is the assembly introduction. It explains what the user will accomplish by working through the modules in the assembly and sets the context for the user story the assembly is based on. The text that immediately follows the `[role="_abstract"]` tag is used for search metadata.
@@ -12,15 +12,12 @@
 == Prerequisites
 
 //A bulleted list of conditions that must be satisfied before the user starts following this assembly.
-include::modules/TEMPLATE_CONCEPT_explaining_a_concept.adoc[leveloffset=+1]
+
+include::modules/REPLACE_ME_WITH_MODULE_NAME.adoc[leveloffset=+1]
 
 [role="_additional-resources"]
-== Additional resources (or Next steps)
+== Additional resources
 //Optional. Delete if not used. A bulleted list of links to other closely-related material. These links can include `link:` and `xref:` macros.
-
-//Restore the context to what it was before this assembly.
-//ifdef::parent-context-of-assembly_blah[:context: {parent-context-of-assembly_blah}]
-//ifndef::parent-context-of-assembly_blah[:!context:]
 </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>ass</tabTrigger>
