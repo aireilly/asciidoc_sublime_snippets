@@ -1,5 +1,5 @@
 <snippet>
-    <content>$0&#169;
+    <content>(C)$0
 </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>copyright</tabTrigger>
