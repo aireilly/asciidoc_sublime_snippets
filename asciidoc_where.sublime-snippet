@@ -2,7 +2,7 @@
     <content>where:
 +
 --
-&#12296;$0REPLACE_WITH_VARIABLE&#9002; :: is the
+&lt;$0REPLACE_WITH_VARIABLE&gt; :: is the
 --
 </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
