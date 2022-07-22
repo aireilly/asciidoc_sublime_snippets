@@ -10,7 +10,10 @@
 //Short introductory paragraph that provides an overview of the module. The text that immediately follows the abstract tag is used for search metadata.
 
 .Prerequisites
-//A bulleted list of conditions that must be satisfied before the user starts following this module.
+
+* You have installed the OpenShift CLI (`oc`).
+
+* You have logged in as a user with `cluster-admin` privileges.
 
 .Procedure
 //Start each step with an active verb. Use an unnumbered bullet (*) if the procedure includes only one step.

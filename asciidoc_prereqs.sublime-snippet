@@ -1,8 +1,9 @@
 <snippet>
 	<content>.Prerequisites
 
-* Install the OpenShift CLI (`oc`).
-* Log in as a user with `cluster-admin` privileges.
+* You have installed the OpenShift CLI (`oc`).
+
+* You have logged in as a user with `cluster-admin` privileges.
 </content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>prereqs</tabTrigger>
