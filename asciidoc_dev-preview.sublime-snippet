@@ -1,8 +1,9 @@
 <snippet>
-    <content>[source,terminal,subs="attributes+"]
+    <content>:FeatureName: $0
+include::modules/developer-preview.adoc[leveloffset=+1]
 </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>codeblock-subs</tabTrigger>
+    <tabTrigger>dev-preview</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.asciidoc</scope>
 </snippet>
