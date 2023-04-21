@@ -1,0 +1,7 @@
+<snippet>
+	<content>op-system-first
+</content>
+	<tabTrigger>op-system-first</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Fedora CoreOS (FCOS)</description>
+</snippet>

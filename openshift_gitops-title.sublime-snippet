@@ -1,0 +1,7 @@
+<snippet>
+	<content>gitops-title
+</content>
+	<tabTrigger>gitops-title</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Red Hat OpenShift GitOps</description>
+</snippet>

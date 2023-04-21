@@ -1,0 +1,7 @@
+<snippet>
+	<content>JaegerName
+</content>
+	<tabTrigger>JaegerName</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Red Hat OpenShift distributed tracing platform</description>
+</snippet>

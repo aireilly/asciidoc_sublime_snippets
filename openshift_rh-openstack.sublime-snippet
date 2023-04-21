@@ -1,0 +1,7 @@
+<snippet>
+	<content>rh-openstack
+</content>
+	<tabTrigger>rh-openstack</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>OpenStack</description>
+</snippet>

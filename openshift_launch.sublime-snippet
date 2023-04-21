@@ -1,0 +1,7 @@
+<snippet>
+	<content>launch
+</content>
+	<tabTrigger>launch</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>image:app-launcher.png[title="Application Launcher"]</description>
+</snippet>

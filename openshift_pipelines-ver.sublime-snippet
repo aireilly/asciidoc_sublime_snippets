@@ -1,0 +1,7 @@
+<snippet>
+	<content>pipelines-ver
+</content>
+	<tabTrigger>pipelines-ver</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>pipelines-1.9</description>
+</snippet>

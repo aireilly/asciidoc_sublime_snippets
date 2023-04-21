@@ -1,0 +1,7 @@
+<snippet>
+	<content>delete
+</content>
+	<tabTrigger>delete</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>image:delete.png[title="Delete"]</description>
+</snippet>

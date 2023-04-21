@@ -1,0 +1,7 @@
+<snippet>
+	<content>gitops-ver
+</content>
+	<tabTrigger>gitops-ver</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>1.1</description>
+</snippet>

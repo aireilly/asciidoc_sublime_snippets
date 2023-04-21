@@ -1,0 +1,7 @@
+<snippet>
+	<content>op-system
+</content>
+	<tabTrigger>op-system</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>FCOS</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content>hybrid-console-second
+</content>
+	<tabTrigger>hybrid-console-second</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Hybrid Cloud Console</description>
+</snippet>

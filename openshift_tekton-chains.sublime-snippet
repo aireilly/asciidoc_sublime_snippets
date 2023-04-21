@@ -1,0 +1,7 @@
+<snippet>
+	<content>tekton-chains
+</content>
+	<tabTrigger>tekton-chains</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Tekton Chains</description>
+</snippet>

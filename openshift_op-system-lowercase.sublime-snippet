@@ -1,0 +1,7 @@
+<snippet>
+	<content>op-system-lowercase
+</content>
+	<tabTrigger>op-system-lowercase</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>fcos</description>
+</snippet>

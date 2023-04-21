@@ -1,0 +1,7 @@
+<snippet>
+	<content>sandboxed-containers-operator
+</content>
+	<tabTrigger>sandboxed-containers-operator</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>OpenShift sandboxed containers Operator</description>
+</snippet>

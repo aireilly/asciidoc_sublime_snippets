@@ -1,0 +1,7 @@
+<snippet>
+	<content>sandboxed-containers-first
+</content>
+	<tabTrigger>sandboxed-containers-first</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>OpenShift sandboxed containers</description>
+</snippet>

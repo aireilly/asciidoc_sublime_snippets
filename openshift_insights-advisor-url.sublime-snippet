@@ -1,0 +1,7 @@
+<snippet>
+	<content>insights-advisor-url
+</content>
+	<tabTrigger>insights-advisor-url</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>link:https://console.redhat.com/openshift/insights/advisor/[Insights Advisor]</description>
+</snippet>

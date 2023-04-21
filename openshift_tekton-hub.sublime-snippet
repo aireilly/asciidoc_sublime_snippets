@@ -1,0 +1,7 @@
+<snippet>
+	<content>tekton-hub
+</content>
+	<tabTrigger>tekton-hub</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Tekton Hub</description>
+</snippet>

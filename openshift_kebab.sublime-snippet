@@ -1,0 +1,7 @@
+<snippet>
+	<content>kebab
+</content>
+	<tabTrigger>kebab</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>image:kebab.png[title="Options menu"]</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content>builds-v1shortname
+</content>
+	<tabTrigger>builds-v1shortname</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Builds v1</description>
+</snippet>

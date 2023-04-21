@@ -1,0 +1,7 @@
+<snippet>
+	<content>product-dedicated
+</content>
+	<tabTrigger>product-dedicated</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Red Hat OpenShift Dedicated</description>
+</snippet>

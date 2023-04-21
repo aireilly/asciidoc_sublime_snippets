@@ -1,0 +1,7 @@
+<snippet>
+	<content>productwinc
+</content>
+	<tabTrigger>productwinc</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Red Hat OpenShift support for Windows Containers</description>
+</snippet>

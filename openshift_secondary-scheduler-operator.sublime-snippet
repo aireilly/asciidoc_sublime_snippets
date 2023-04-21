@@ -1,0 +1,7 @@
+<snippet>
+	<content>secondary-scheduler-operator
+</content>
+	<tabTrigger>secondary-scheduler-operator</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Secondary Scheduler Operator</description>
+</snippet>

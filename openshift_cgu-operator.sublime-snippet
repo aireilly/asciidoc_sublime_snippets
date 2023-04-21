@@ -1,0 +1,7 @@
+<snippet>
+	<content>cgu-operator
+</content>
+	<tabTrigger>cgu-operator</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>TALM</description>
+</snippet>

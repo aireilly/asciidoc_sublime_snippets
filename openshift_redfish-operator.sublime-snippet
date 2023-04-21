@@ -1,0 +1,7 @@
+<snippet>
+	<content>redfish-operator
+</content>
+	<tabTrigger>redfish-operator</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Bare Metal Event Relay</description>
+</snippet>

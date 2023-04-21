@@ -1,0 +1,7 @@
+<snippet>
+	<content>pipelines-shortname
+</content>
+	<tabTrigger>pipelines-shortname</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>OpenShift Pipelines</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content>rh-virtualization-engine-name
+</content>
+	<tabTrigger>rh-virtualization-engine-name</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Engine</description>
+</snippet>

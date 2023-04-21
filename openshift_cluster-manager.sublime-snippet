@@ -1,0 +1,7 @@
+<snippet>
+	<content>cluster-manager
+</content>
+	<tabTrigger>cluster-manager</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>OpenShift Cluster Manager</description>
+</snippet>

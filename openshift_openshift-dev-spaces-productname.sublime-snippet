@@ -1,0 +1,7 @@
+<snippet>
+	<content>openshift-dev-spaces-productname
+</content>
+	<tabTrigger>openshift-dev-spaces-productname</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Red Hat OpenShift Dev Spaces</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content>openshift-networking
+</content>
+	<tabTrigger>openshift-networking</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Red Hat OpenShift Networking</description>
+</snippet>

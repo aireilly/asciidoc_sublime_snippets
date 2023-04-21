@@ -1,0 +1,7 @@
+<snippet>
+	<content>OTELName
+</content>
+	<tabTrigger>OTELName</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Red Hat OpenShift distributed tracing data collection</description>
+</snippet>

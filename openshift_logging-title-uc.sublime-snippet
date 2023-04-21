@@ -1,0 +1,7 @@
+<snippet>
+	<content>logging-title-uc
+</content>
+	<tabTrigger>logging-title-uc</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Logging subsystem for Red Hat OpenShift</description>
+</snippet>

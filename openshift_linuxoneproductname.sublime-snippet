@@ -1,0 +1,7 @@
+<snippet>
+	<content>linuxoneProductName
+</content>
+	<tabTrigger>linuxoneProductName</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>IBM(R) LinuxONE</description>
+</snippet>

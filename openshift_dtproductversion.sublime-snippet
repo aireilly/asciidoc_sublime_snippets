@@ -1,0 +1,7 @@
+<snippet>
+	<content>DTProductVersion
+</content>
+	<tabTrigger>DTProductVersion</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>2.7</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content>velero-version
+</content>
+	<tabTrigger>velero-version</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>1.9</description>
+</snippet>

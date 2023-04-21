@@ -1,0 +1,7 @@
+<snippet>
+	<content>op-system-base
+</content>
+	<tabTrigger>op-system-base</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>Fedora</description>
+</snippet>

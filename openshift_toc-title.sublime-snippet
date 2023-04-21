@@ -1,0 +1,7 @@
+<snippet>
+	<content>toc-title
+</content>
+	<tabTrigger>toc-title</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description></description>
+</snippet>

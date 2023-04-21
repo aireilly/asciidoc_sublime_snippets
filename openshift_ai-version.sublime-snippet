@@ -1,0 +1,7 @@
+<snippet>
+	<content>ai-version
+</content>
+	<tabTrigger>ai-version</tabTrigger>
+	<scope>text.asciidoc</scope>
+	<description>2.3</description>
+</snippet>
