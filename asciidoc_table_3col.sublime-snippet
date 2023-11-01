@@ -1,6 +1,6 @@
 <snippet>
     <content>.$0REPLACE_WITH_TABLE_TITLE
-[cols=3*, width="60%", options="header"]
+[cols="1,2,3", width="90%", options="header"]
 |====
 |Firefox
 |Web Browser

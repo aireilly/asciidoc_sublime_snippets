@@ -1,0 +1,17 @@
+<snippet>
+    <content>ifeval::["{policy-gen-cr}" == "PolicyGenTemplate"]
+include::snippets/$0REPLACE_ME_.adoc[]
+endif::[]
+ifeval::["{policy-gen-cr}" == "PolicyGenerator"]
+include::snippets/_REPLACE_ME_.adoc[]
+endif::[]
+</content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ifpg</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.asciidoc</scope>
+</snippet>
+
+
+
+
