@@ -1,7 +1,7 @@
 <snippet>
-	<content>DTShortName
+    <content>DTShortName
 </content>
-	<tabTrigger>DTShortName</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>distributed tracing</description>
+    <tabTrigger>DTShortName</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>distributed tracing</description>
 </snippet>

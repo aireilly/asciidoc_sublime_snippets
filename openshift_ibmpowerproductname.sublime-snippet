@@ -1,7 +1,7 @@
 <snippet>
-	<content>ibmpowerProductName
+    <content>ibmpowerProductName
 </content>
-	<tabTrigger>ibmpowerProductName</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>IBM Power</description>
+    <tabTrigger>ibmpowerProductName</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>IBM Power</description>
 </snippet>

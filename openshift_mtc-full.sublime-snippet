@@ -1,7 +1,7 @@
 <snippet>
-	<content>mtc-full
+    <content>mtc-full
 </content>
-	<tabTrigger>mtc-full</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Migration Toolkit for Containers</description>
+    <tabTrigger>mtc-full</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Migration Toolkit for Containers</description>
 </snippet>

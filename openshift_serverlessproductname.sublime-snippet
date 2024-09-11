@@ -1,7 +1,7 @@
 <snippet>
-	<content>ServerlessProductName
+    <content>ServerlessProductName
 </content>
-	<tabTrigger>ServerlessProductName</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>OpenShift Serverless</description>
+    <tabTrigger>ServerlessProductName</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>OpenShift Serverless</description>
 </snippet>

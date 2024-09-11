@@ -1,7 +1,7 @@
 <snippet>
-	<content>openshift-local-productname
+    <content>openshift-local-productname
 </content>
-	<tabTrigger>openshift-local-productname</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Red Hat OpenShift Local</description>
+    <tabTrigger>openshift-local-productname</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Red Hat OpenShift Local</description>
 </snippet>

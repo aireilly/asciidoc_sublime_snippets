@@ -1,7 +1,7 @@
 <snippet>
-	<content>cgu-operator-full
+    <content>cgu-operator-full
 </content>
-	<tabTrigger>cgu-operator-full</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Topology Aware Lifecycle Manager</description>
+    <tabTrigger>cgu-operator-full</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Topology Aware Lifecycle Manager</description>
 </snippet>

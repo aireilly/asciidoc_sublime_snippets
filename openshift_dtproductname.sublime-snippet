@@ -1,7 +1,7 @@
 <snippet>
-	<content>DTProductName
+    <content>DTProductName
 </content>
-	<tabTrigger>DTProductName</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Red Hat OpenShift distributed tracing</description>
+    <tabTrigger>DTProductName</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Red Hat OpenShift distributed tracing</description>
 </snippet>

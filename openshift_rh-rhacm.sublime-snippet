@@ -1,7 +1,7 @@
 <snippet>
-	<content>rh-rhacm
+    <content>rh-rhacm
 </content>
-	<tabTrigger>rh-rhacm</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>RHACM</description>
+    <tabTrigger>rh-rhacm</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>RHACM</description>
 </snippet>

@@ -1,7 +1,7 @@
 <snippet>
-	<content>logging
+    <content>logging
 </content>
-	<tabTrigger>logging</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>logging subsystem</description>
+    <tabTrigger>logging</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>logging subsystem</description>
 </snippet>

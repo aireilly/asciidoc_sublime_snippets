@@ -1,7 +1,7 @@
 <snippet>
-	<content>cluster-manager-url-pull
+    <content>cluster-manager-url-pull
 </content>
-	<tabTrigger>cluster-manager-url-pull</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>link:https://console.redhat.com/openshift/install/pull-secret[pull secret from the Red Hat OpenShift Cluster Manager]</description>
+    <tabTrigger>cluster-manager-url-pull</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>link:https://console.redhat.com/openshift/install/pull-secret[pull secret from the Red Hat OpenShift Cluster Manager]</description>
 </snippet>

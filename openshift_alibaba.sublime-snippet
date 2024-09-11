@@ -1,7 +1,7 @@
 <snippet>
-	<content>alibaba
+    <content>alibaba
 </content>
-	<tabTrigger>alibaba</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Alibaba Cloud</description>
+    <tabTrigger>alibaba</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Alibaba Cloud</description>
 </snippet>

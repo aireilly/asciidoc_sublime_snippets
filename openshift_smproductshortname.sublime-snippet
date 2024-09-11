@@ -1,7 +1,7 @@
 <snippet>
-	<content>SMProductShortName
+    <content>SMProductShortName
 </content>
-	<tabTrigger>SMProductShortName</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Service Mesh</description>
+    <tabTrigger>SMProductShortName</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Service Mesh</description>
 </snippet>

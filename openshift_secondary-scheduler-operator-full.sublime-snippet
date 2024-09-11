@@ -1,7 +1,7 @@
 <snippet>
-	<content>secondary-scheduler-operator-full
+    <content>secondary-scheduler-operator-full
 </content>
-	<tabTrigger>secondary-scheduler-operator-full</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Secondary Scheduler Operator for Red Hat OpenShift</description>
+    <tabTrigger>secondary-scheduler-operator-full</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Secondary Scheduler Operator for Red Hat OpenShift</description>
 </snippet>

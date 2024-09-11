@@ -1,7 +1,7 @@
 <snippet>
-	<content>rh-storage
+    <content>rh-storage
 </content>
-	<tabTrigger>rh-storage</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>OpenShift Data Foundation</description>
+    <tabTrigger>rh-storage</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>OpenShift Data Foundation</description>
 </snippet>

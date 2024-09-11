@@ -1,7 +1,7 @@
 <snippet>
-	<content>data-uri
+    <content>data-uri
 </content>
-	<tabTrigger>data-uri</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description></description>
+    <tabTrigger>data-uri</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description></description>
 </snippet>

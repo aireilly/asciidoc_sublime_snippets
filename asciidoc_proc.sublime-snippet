@@ -1,5 +1,5 @@
 <snippet>
-	<content>// Module included in the following assemblies:
+    <content>// Module included in the following assemblies:
 //
 // *
 :_mod-docs-content-type: PROCEDURE
@@ -21,8 +21,8 @@
 .Verification
 //Provide the user with verification methods for the procedure, such as expected output or commands that confirm success or failure.
 </content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>proc</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text</scope>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>proc</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text</scope>
 </snippet>

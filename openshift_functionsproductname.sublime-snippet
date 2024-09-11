@@ -1,7 +1,7 @@
 <snippet>
-	<content>FunctionsProductName
+    <content>FunctionsProductName
 </content>
-	<tabTrigger>FunctionsProductName</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>OpenShift Serverless Functions</description>
+    <tabTrigger>FunctionsProductName</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>OpenShift Serverless Functions</description>
 </snippet>

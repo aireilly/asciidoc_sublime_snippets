@@ -1,7 +1,7 @@
 <snippet>
-	<content>VirtProductName
+    <content>VirtProductName
 </content>
-	<tabTrigger>VirtProductName</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>OKD Virtualization</description>
+    <tabTrigger>VirtProductName</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>OKD Virtualization</description>
 </snippet>

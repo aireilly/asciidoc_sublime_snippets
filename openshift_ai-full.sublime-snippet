@@ -1,7 +1,7 @@
 <snippet>
-	<content>ai-full
+    <content>ai-full
 </content>
-	<tabTrigger>ai-full</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Assisted Installer</description>
+    <tabTrigger>ai-full</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Assisted Installer</description>
 </snippet>

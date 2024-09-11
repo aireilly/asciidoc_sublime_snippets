@@ -1,7 +1,7 @@
 <snippet>
-	<content>rh-app-icon
+    <content>rh-app-icon
 </content>
-	<tabTrigger>rh-app-icon</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>image:red-hat-applications-menu-icon.jpg[title="Red Hat applications"]</description>
+    <tabTrigger>rh-app-icon</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>image:red-hat-applications-menu-icon.jpg[title="Red Hat applications"]</description>
 </snippet>

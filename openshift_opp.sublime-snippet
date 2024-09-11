@@ -1,7 +1,7 @@
 <snippet>
-	<content>opp
+    <content>opp
 </content>
-	<tabTrigger>opp</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>OpenShift Platform Plus</description>
+    <tabTrigger>opp</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>OpenShift Platform Plus</description>
 </snippet>

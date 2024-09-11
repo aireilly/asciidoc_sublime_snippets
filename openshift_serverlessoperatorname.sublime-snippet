@@ -1,7 +1,7 @@
 <snippet>
-	<content>ServerlessOperatorName
+    <content>ServerlessOperatorName
 </content>
-	<tabTrigger>ServerlessOperatorName</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>OpenShift Serverless Operator</description>
+    <tabTrigger>ServerlessOperatorName</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>OpenShift Serverless Operator</description>
 </snippet>

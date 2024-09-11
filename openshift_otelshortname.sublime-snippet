@@ -1,7 +1,7 @@
 <snippet>
-	<content>OTELShortName
+    <content>OTELShortName
 </content>
-	<tabTrigger>OTELShortName</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>distributed tracing data collection</description>
+    <tabTrigger>OTELShortName</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>distributed tracing data collection</description>
 </snippet>

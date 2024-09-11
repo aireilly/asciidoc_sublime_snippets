@@ -1,7 +1,7 @@
 <snippet>
-	<content>SMProductVersion1x
+    <content>SMProductVersion1x
 </content>
-	<tabTrigger>SMProductVersion1x</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>1.1.18.2</description>
+    <tabTrigger>SMProductVersion1x</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>1.1.18.2</description>
 </snippet>

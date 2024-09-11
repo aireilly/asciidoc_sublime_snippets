@@ -1,5 +1,5 @@
 <snippet>
-	<content>.$0REPLACE_WITH_TABLE_TITLE
+    <content>.$0REPLACE_WITH_TABLE_TITLE
 [cols="1,2", width="90%", options="header"]
 |====
 |Firefox
@@ -12,10 +12,10 @@
 |Application Server
 |====
 </content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>table_2col</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.asciidoc</scope>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>table_2col</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.asciidoc</scope>
 </snippet>
 
 

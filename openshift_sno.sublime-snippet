@@ -1,7 +1,7 @@
 <snippet>
-	<content>sno
+    <content>sno
 </content>
-	<tabTrigger>sno</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>single-node OpenShift</description>
+    <tabTrigger>sno</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>single-node OpenShift</description>
 </snippet>

@@ -1,7 +1,7 @@
 <snippet>
-	<content>mtc-version-z
+    <content>mtc-version-z
 </content>
-	<tabTrigger>mtc-version-z</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>1.7</description>
+    <tabTrigger>mtc-version-z</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>1.7</description>
 </snippet>

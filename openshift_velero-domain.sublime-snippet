@@ -1,7 +1,7 @@
 <snippet>
-	<content>velero-domain
+    <content>velero-domain
 </content>
-	<tabTrigger>velero-domain</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>velero.io</description>
+    <tabTrigger>velero-domain</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>velero.io</description>
 </snippet>

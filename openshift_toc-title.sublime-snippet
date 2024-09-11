@@ -1,7 +1,7 @@
 <snippet>
-	<content>toc-title
+    <content>toc-title
 </content>
-	<tabTrigger>toc-title</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description></description>
+    <tabTrigger>toc-title</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description></description>
 </snippet>

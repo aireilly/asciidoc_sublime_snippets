@@ -1,7 +1,7 @@
 <snippet>
-	<content>oke
+    <content>oke
 </content>
-	<tabTrigger>oke</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>OpenShift Kubernetes Engine</description>
+    <tabTrigger>oke</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>OpenShift Kubernetes Engine</description>
 </snippet>

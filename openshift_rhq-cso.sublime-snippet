@@ -1,7 +1,7 @@
 <snippet>
-	<content>rhq-cso
+    <content>rhq-cso
 </content>
-	<tabTrigger>rhq-cso</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Red Hat Quay Container Security Operator</description>
+    <tabTrigger>rhq-cso</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Red Hat Quay Container Security Operator</description>
 </snippet>

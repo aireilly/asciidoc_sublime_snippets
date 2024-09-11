@@ -1,7 +1,7 @@
 <snippet>
-	<content>pac
+    <content>pac
 </content>
-	<tabTrigger>pac</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Pipelines as Code</description>
+    <tabTrigger>pac</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Pipelines as Code</description>
 </snippet>

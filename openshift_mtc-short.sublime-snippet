@@ -1,7 +1,7 @@
 <snippet>
-	<content>mtc-short
+    <content>mtc-short
 </content>
-	<tabTrigger>mtc-short</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>MTC</description>
+    <tabTrigger>mtc-short</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>MTC</description>
 </snippet>

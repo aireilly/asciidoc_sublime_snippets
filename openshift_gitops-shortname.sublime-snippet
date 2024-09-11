@@ -1,7 +1,7 @@
 <snippet>
-	<content>gitops-shortname
+    <content>gitops-shortname
 </content>
-	<tabTrigger>gitops-shortname</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>GitOps</description>
+    <tabTrigger>gitops-shortname</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>GitOps</description>
 </snippet>

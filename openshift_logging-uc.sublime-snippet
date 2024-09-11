@@ -1,7 +1,7 @@
 <snippet>
-	<content>logging-uc
+    <content>logging-uc
 </content>
-	<tabTrigger>logging-uc</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Logging subsystem</description>
+    <tabTrigger>logging-uc</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Logging subsystem</description>
 </snippet>

@@ -1,7 +1,7 @@
 <snippet>
-	<content>lvms
+    <content>lvms
 </content>
-	<tabTrigger>lvms</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>LVM Storage</description>
+    <tabTrigger>lvms</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>LVM Storage</description>
 </snippet>

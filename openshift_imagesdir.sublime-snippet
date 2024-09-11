@@ -1,7 +1,7 @@
 <snippet>
-	<content>imagesdir
+    <content>imagesdir
 </content>
-	<tabTrigger>imagesdir</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>images</description>
+    <tabTrigger>imagesdir</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>images</description>
 </snippet>

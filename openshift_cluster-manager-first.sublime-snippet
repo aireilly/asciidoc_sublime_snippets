@@ -1,7 +1,7 @@
 <snippet>
-	<content>cluster-manager-first
+    <content>cluster-manager-first
 </content>
-	<tabTrigger>cluster-manager-first</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Red Hat OpenShift Cluster Manager</description>
+    <tabTrigger>cluster-manager-first</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Red Hat OpenShift Cluster Manager</description>
 </snippet>

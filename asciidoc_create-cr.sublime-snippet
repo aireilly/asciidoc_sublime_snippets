@@ -1,5 +1,5 @@
 <snippet>
-	<content>. Create a `REPLACE_WITH_CUSTOM_RESOURCE` resource, for example:
+    <content>. Create a `REPLACE_WITH_CUSTOM_RESOURCE` resource, for example:
 
 .. Save the following YAML in the `REPLACE_WITH_FILENAME.yaml` file:
 +
@@ -15,8 +15,8 @@ $0
 \$ oc create -f REPLACE_WITH_FILENAME.yaml
 ----
 </content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>create_cr</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.asciidoc</scope>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>create_cr</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.asciidoc</scope>
 </snippet>

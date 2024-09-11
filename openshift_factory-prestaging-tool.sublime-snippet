@@ -1,7 +1,7 @@
 <snippet>
-	<content>factory-prestaging-tool
+    <content>factory-prestaging-tool
 </content>
-	<tabTrigger>factory-prestaging-tool</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>factory-precaching-cli tool</description>
+    <tabTrigger>factory-prestaging-tool</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>factory-precaching-cli tool</description>
 </snippet>

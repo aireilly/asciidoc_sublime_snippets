@@ -1,11 +1,11 @@
 <snippet>
-	<content>[role="_additional-resources"]
+    <content>[role="_additional-resources"]
 .Additional resources
 
-* For more information, see xref:$0PATH_TO_FILE.adoc#SECTION_ID[LINK_TEXT].	
+* For more information, see xref:$0PATH_TO_FILE.adoc#SECTION_ID[LINK_TEXT].    
 </content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>add</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.asciidoc</scope>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>add</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.asciidoc</scope>
 </snippet>

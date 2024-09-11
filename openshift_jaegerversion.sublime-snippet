@@ -1,7 +1,7 @@
 <snippet>
-	<content>JaegerVersion
+    <content>JaegerVersion
 </content>
-	<tabTrigger>JaegerVersion</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>1.39.0</description>
+    <tabTrigger>JaegerVersion</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>1.39.0</description>
 </snippet>

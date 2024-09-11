@@ -1,7 +1,7 @@
 <snippet>
-	<content>hybrid-console
+    <content>hybrid-console
 </content>
-	<tabTrigger>hybrid-console</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Red Hat Hybrid Cloud Console</description>
+    <tabTrigger>hybrid-console</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Red Hat Hybrid Cloud Console</description>
 </snippet>

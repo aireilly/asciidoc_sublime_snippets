@@ -1,8 +1,8 @@
 <snippet>
-	<content>link:$0LINK_URL[LINK_TEXT]
+    <content>link:$0LINK_URL[LINK_TEXT]
 </content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>link</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.asciidoc</scope>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>link</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.asciidoc</scope>
 </snippet>

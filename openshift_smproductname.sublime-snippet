@@ -1,7 +1,7 @@
 <snippet>
-	<content>SMProductName
+    <content>SMProductName
 </content>
-	<tabTrigger>SMProductName</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Red Hat OpenShift Service Mesh</description>
+    <tabTrigger>SMProductName</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Red Hat OpenShift Service Mesh</description>
 </snippet>

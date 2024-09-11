@@ -1,7 +1,7 @@
 <snippet>
-	<content>ServerlessProductShortName
+    <content>ServerlessProductShortName
 </content>
-	<tabTrigger>ServerlessProductShortName</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>Serverless</description>
+    <tabTrigger>ServerlessProductShortName</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>Serverless</description>
 </snippet>

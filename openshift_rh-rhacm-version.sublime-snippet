@@ -1,7 +1,7 @@
 <snippet>
-	<content>rh-rhacm-version
+    <content>rh-rhacm-version
 </content>
-	<tabTrigger>rh-rhacm-version</tabTrigger>
-	<scope>text.asciidoc</scope>
-	<description>2.5</description>
+    <tabTrigger>rh-rhacm-version</tabTrigger>
+    <scope>text.asciidoc</scope>
+    <description>2.5</description>
 </snippet>
