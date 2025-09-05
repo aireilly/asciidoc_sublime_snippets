@@ -1,7 +1,7 @@
 <snippet>
     <content>.$0REPLACE_WITH_TABLE_TITLE
 [cols="1,2", width="90%", options="header"]
-|====
+|===
 |Firefox
 |Web Browser
 
@@ -10,7 +10,7 @@
 
 |TorqueBox
 |Application Server
-|====
+|===
 </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>table_2col</tabTrigger>
