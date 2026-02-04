@@ -1,0 +1,5 @@
+<snippet>
+    <content>{rhel-prodname-short}</content>
+    <tabTrigger>rhel-short</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

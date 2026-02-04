@@ -1,0 +1,5 @@
+<snippet>
+    <content>{neuralmagic-brand-name}</content>
+    <tabTrigger>neuralmagic</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

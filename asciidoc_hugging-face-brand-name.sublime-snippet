@@ -1,0 +1,5 @@
+<snippet>
+    <content>{hugging-face-brand-name}</content>
+    <tabTrigger>hugging-face-brand</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

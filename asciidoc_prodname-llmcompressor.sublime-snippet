@@ -1,0 +1,5 @@
+<snippet>
+    <content>{prodname-llmcompressor}</content>
+    <tabTrigger>llmcompressor-name</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

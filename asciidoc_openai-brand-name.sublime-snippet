@@ -1,0 +1,5 @@
+<snippet>
+    <content>{openai-brand-name}</content>
+    <tabTrigger>openai</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

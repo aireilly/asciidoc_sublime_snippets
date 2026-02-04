@@ -1,0 +1,5 @@
+<snippet>
+    <content>{rhai}</content>
+    <tabTrigger>rhai</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

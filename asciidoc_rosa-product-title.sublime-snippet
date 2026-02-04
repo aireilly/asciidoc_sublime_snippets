@@ -1,0 +1,5 @@
+<snippet>
+    <content>{rosa-product-title}</content>
+    <tabTrigger>rosa-title</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

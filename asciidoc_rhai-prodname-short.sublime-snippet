@@ -1,0 +1,5 @@
+<snippet>
+    <content>{rhai-prodname-short}</content>
+    <tabTrigger>rhai-short</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

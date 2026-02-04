@@ -1,0 +1,5 @@
+<snippet>
+    <content>{prodname-short}</content>
+    <tabTrigger>prodname-short</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content>{product-version}</content>
+    <tabTrigger>prod-ver</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

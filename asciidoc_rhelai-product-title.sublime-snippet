@@ -1,0 +1,5 @@
+<snippet>
+    <content>{rhelai-product-title}</content>
+    <tabTrigger>rhelai-title</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

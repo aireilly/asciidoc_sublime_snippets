@@ -1,0 +1,5 @@
+<snippet>
+    <content>{rhaiis-version}</content>
+    <tabTrigger>rhaiis-ver</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

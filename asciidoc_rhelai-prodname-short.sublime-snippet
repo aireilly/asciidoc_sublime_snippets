@@ -1,0 +1,5 @@
+<snippet>
+    <content>{rhelai-prodname-short}</content>
+    <tabTrigger>rhelai-short</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

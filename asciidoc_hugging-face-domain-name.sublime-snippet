@@ -1,0 +1,5 @@
+<snippet>
+    <content>{hugging-face-domain-name}</content>
+    <tabTrigger>hugging-face-domain</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

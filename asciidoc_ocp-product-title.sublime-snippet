@@ -1,0 +1,5 @@
+<snippet>
+    <content>{ocp-product-title}</content>
+    <tabTrigger>ocp-title</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content>{infiniband-prodname-short}</content>
+    <tabTrigger>infiniband-short</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

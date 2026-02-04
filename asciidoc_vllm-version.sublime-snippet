@@ -1,0 +1,5 @@
+<snippet>
+    <content>{vllm-version}</content>
+    <tabTrigger>vllm-ver</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

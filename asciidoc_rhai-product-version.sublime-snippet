@@ -1,0 +1,5 @@
+<snippet>
+    <content>{rhai-product-version}</content>
+    <tabTrigger>rhai-ver</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content>{rhaiis-docs-url}</content>
+    <tabTrigger>rhaiis-docs</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

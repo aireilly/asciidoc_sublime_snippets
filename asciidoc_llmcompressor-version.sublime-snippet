@@ -1,0 +1,5 @@
+<snippet>
+    <content>{llmcompressor-version}</content>
+    <tabTrigger>llmcompressor-ver</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>

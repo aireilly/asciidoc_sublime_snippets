@@ -1,0 +1,5 @@
+<snippet>
+    <content>{rhel-product-title}</content>
+    <tabTrigger>rhel-title</tabTrigger>
+    <scope>text.asciidoc</scope>
+</snippet>
