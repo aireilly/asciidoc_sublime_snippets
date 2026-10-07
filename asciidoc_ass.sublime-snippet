@@ -14,5 +14,5 @@ include::modules/REPLACE_ME_WITH_MODULE_NAME.adoc[leveloffset=+1]
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>ass</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>text</scope>
+    <scope>text.asciidoc</scope>
 </snippet>
